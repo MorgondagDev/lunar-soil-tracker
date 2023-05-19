@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: '[Bug] - Sun is shining, the weather is sweet'
 labels: 'bug'
 assignees: 'morgondag'
 
