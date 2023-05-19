@@ -9,4 +9,5 @@ https://store.steampowered.com/app/823210/Lunar_Soil/
 
 ## Reporting a problem or idea
 You can create a new ticket right here
+
 https://github.com/MorgondagDev/lunar-soil-tracker/issues/new/choose
